@@ -39,9 +39,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: S.GURUMURTHY
+### Name:     DHARSHAN D
 
-### Register Number: 212223230066
+### Register Number: 212223230045
 
 ```python
 import torch
